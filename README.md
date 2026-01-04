@@ -31,6 +31,6 @@ Eman Abid
 Contributed by Adeena Butt(25011519-087)-Medical Module
 ## Team Members
 Eman Abid-Administrative Module
-Adeena butt-Medical Module
--Administrative Module :
 https://github.com/Eman-abid200/HOSPITAL-MANAGEMENT-SYSTEM.git
+Adeena butt-Medical Module
+https://github.com/adeenabutt822-dot/HOSPITAL-MANAGEMENT-SYSYTEM.git
