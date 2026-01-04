@@ -27,3 +27,7 @@ This repository contains the Administrative part of the system.
 ## Author
 Eman Abid
 (25011519_087)
+Contributed by Adeena Butt(25011519-087)-Medical Module
+## Team Members
+Eman Abid-Administrative Module
+Adeena butt-Medical Module
