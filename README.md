@@ -1,3 +1,4 @@
+
 # Hospital Management System – Administrative Module
 
 ## Description
@@ -31,3 +32,5 @@ Contributed by Adeena Butt(25011519-087)-Medical Module
 ## Team Members
 Eman Abid-Administrative Module
 Adeena butt-Medical Module
+-Administrative Module :
+https://github.com/Eman-abid200/HOSPITAL-MANAGEMENT-SYSTEM.git
